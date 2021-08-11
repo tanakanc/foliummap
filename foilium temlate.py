@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Aug 11 20:55:11 2021
-
-@author: tanakanc
-"""
-
 import folium
 #from folium.features import DivIcon 
 from folium.plugins import Fullscreen
